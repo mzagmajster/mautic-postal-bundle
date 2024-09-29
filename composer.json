@@ -1,0 +1,15 @@
+{
+    "name": "mzagmajster/mautic-postal-bundle",
+    "description": "MZagmajsterPostalBundle",
+    "type": "mautic-plugin",
+    "version": "1.0.0",
+    "license": "GPL-3.0-or-later",
+    "keywords": ["mautic","plugin","integration"],
+    "require": {
+        "php": ">=8.0.0 <8.1",
+        "mautic/core-lib": "^5.0"
+    },
+    "extra": {
+        "install-directory-name": "HelloWorldBundle"
+    }
+}
